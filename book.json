@@ -1,0 +1,36 @@
+{
+    "author": "SeisPider <http://seispider.top>",
+    "description": "NumPy中文指南",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "SeisPider's Blog": "http://seispider.top"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["katex"],
+    "themes": ["comscore"],
+    "title": "NumPy中文指南",
+    "variables": {}
+}
